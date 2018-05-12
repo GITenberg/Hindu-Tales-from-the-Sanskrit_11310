@@ -1,5 +1,5 @@
 _repo: Hindu-Tales-from-the-Sanskrit_11310
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Mitra, Siddha Mohana
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1925
     gutenberg_agent_id: '3935'
     url: http://www.gutenberg.org/2009/agents/3935
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: D'Anvers, N.
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '1165'
     url: http://www.gutenberg.org/2009/agents/1165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11310#Hindu-Tales-from-the-Sanskrit
 gutenberg_bookshelf:
 - India
 - Hinduism
